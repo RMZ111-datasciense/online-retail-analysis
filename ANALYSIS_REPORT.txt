@@ -1,0 +1,47 @@
+
+
+============================================================
+ONLINE RETAIL DATA ANALYSIS - YAKUNIY HISOBOT
+============================================================
+
+📊 ASOSIY METRIKALAR:
+------------------------------------------------------------
+💰 Jami Daromad:              $9,747,747.93
+🛒 Jami Buyurtmalar:          25,900
+👥 Jami Mijozlar:             4,372
+📦 Jami Mahsulotlar:          4,070
+📊 O'rtacha Buyurtma Qiymati: $376.36
+
+👥 RFM SEGMENTATSIYA:
+------------------------------------------------------------
+customer_segment
+Champion     1
+Lost         1
+Loyal        1
+At Risk      1
+Regular      1
+Promising    1
+
+🌍 TOP 5 MAMLAKATLAR (Daromad):
+------------------------------------------------------------
+country
+United Kingdom    8187806.36
+Netherlands        284661.54
+EIRE               263276.82
+Germany            221698.21
+France             197403.90
+
+📈 ENG YUQORI SAVDO KUNI:
+------------------------------------------------------------
+Thursday - $2,112,519.00
+
+✅ YARATILGAN VIZUALIZATSIYALAR:
+------------------------------------------------------------
+1. Kunlik daromad tendentsiyasi
+2. Haftalik daromad tahlili
+3. RFM segmentlar (donut chart)
+4. RFM scatter plot
+5. Top 10 mamlakatlar
+6. Oylik daromad trendi
+
+
